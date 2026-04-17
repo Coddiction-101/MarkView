@@ -5,10 +5,7 @@ This project focuses on understanding core frontend concepts like layout design,
 
 ---
 
-## 🔗 Live Preview
-
-Example: https://Coddiction-101.github.io/
-
+MAP Demo - https://coddiction-101.github.io/MarkView/
 ---
 
 ## 📌 Features (MVP Scope)
