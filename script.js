@@ -1,3 +1,4 @@
+console.log("JS Connected");
 const editor = document.getElementById('editor');
 const preview = document.getElementById('preview');
 
