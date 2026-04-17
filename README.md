@@ -94,7 +94,3 @@ This is a **from-scratch implementation** intended for learning purposes.
 The goal is to understand how Markdown parsing works internally before using external libraries.
 
 ---
-
-## 📄 License
-
-Open for personal and educational use.
