@@ -7,7 +7,7 @@ This project focuses on understanding core frontend concepts like layout design,
 
 ## 🔗 Live Preview
 
-Example: https://your-username.github.io/
+Example: https://Coddiction-101.github.io/
 
 ---
 
