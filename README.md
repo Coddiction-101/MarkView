@@ -7,7 +7,6 @@ This project focuses on understanding core frontend concepts like layout design,
 
 ## 🔗 Live Preview
 
-*(Add your deployed link here after hosting)*
 Example: https://your-username.github.io/
 
 ---
