@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MarkView | Markdown Convertor</title>
+    <!-- Fonts -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>
+            <i class="ri-edit-line"></i>
+            MarkView
+        </h1>
+    </header>
+
+    <main class="container">
+        <section class="editor-section">
+            <div class="section-header">
+                <i class="ri-edit-box-line"></i>
+                <span>Editor</span>
+            </div>
+            <textarea id="editor" placeholder="Write your markdown here..."></textarea>
+        </section>
+
+        <section class="preview-section">
+            <div class="section-header">
+                <i class="ri-eye-line"></i>
+                <span>Preview</span>
+            </div>
+            <div id="preview"></div>
+        </section>
+    </main>
+</body>
+
+</html>
